@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/apple/ARKitScenes/commit/474aaa83d7b1c9080619d8485de2d7c885c01fc5",
       "git:hexsha": "474aaa83d7b1c9080619d8485de2d7c885c01fc5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
