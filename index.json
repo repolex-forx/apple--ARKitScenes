@@ -1,0 +1,11 @@
+{
+  "org": "apple",
+  "repo": "ARKitScenes",
+  "versions": [
+    {
+      "commit": "474aaa83d7b1c9080619d8485de2d7c885c01fc5",
+      "tag": "",
+      "parsed_at": "2026-11-09T17:39:25.132356+00:00"
+    }
+  ]
+}
