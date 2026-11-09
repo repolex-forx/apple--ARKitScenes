@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/apple/ARKitScenes",
+  "@type": "gh:Repository",
+  "gh:name": "ARKitScenes",
+  "gh:owner": "apple",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/apple/ARKitScenes/commit/474aaa83d7b1c9080619d8485de2d7c885c01fc5",
+      "git:hexsha": "474aaa83d7b1c9080619d8485de2d7c885c01fc5",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
